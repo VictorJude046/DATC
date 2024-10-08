@@ -1,0 +1,12 @@
+D:\Swiftkey\DATC\bin\publish\DATC.exe
+D:\Swiftkey\DATC\bin\publish\appsettings.Development.json
+D:\Swiftkey\DATC\bin\publish\appsettings.json
+D:\Swiftkey\DATC\bin\publish\DATC.dll
+D:\Swiftkey\DATC\bin\publish\DATC.deps.json
+D:\Swiftkey\DATC\bin\publish\DATC.runtimeconfig.json
+D:\Swiftkey\DATC\bin\publish\DATC.pdb
+D:\Swiftkey\DATC\bin\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\Swiftkey\DATC\bin\publish\Microsoft.OpenApi.dll
+D:\Swiftkey\DATC\bin\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Swiftkey\DATC\bin\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Swiftkey\DATC\bin\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
