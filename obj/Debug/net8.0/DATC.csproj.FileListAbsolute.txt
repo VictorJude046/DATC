@@ -31,3 +31,4 @@ D:\Swiftkey\DATC\obj\Debug\net8.0\refint\DATC.dll
 D:\Swiftkey\DATC\obj\Debug\net8.0\DATC.pdb
 D:\Swiftkey\DATC\obj\Debug\net8.0\DATC.genruntimeconfig.cache
 D:\Swiftkey\DATC\obj\Debug\net8.0\ref\DATC.dll
+D:\Swiftkey\DATC\obj\Debug\net8.0\DATC.sourcelink.json

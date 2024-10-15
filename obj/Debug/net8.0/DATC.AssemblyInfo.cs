@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DATC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+501aaf5c05693c36dacdfffc8ecdd5bb7be9bc74")]
 [assembly: System.Reflection.AssemblyProductAttribute("DATC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DATC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
